@@ -1,4 +1,3 @@
-# s12345_2025.py
 # Purpose: This program allows the user to generate, read, and delete DNA sequences in FASTA format.
 # It also provides nucleotide statistics for sequences.
 # Context: Bioinformatics programming exercise with file I/O, DNA processing, and statistics.
